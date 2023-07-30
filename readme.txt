@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-This (Glossy Beauty Salon website Template) is a clean, modern and well crafted responsive template designed 
+This (Aashi kearwani) is a clean, modern and well crafted responsive template designed 
 to suite any Fashion designers, Beauty salon, Beauty parlor business promotions, Makeup artists profile needs.The clean layout 
 helps this professional template to stand out. This is completely free and responsive template can be customized 
 to fit any industry's need.This template is mobile and retina/hi-dpi ready which means your site will look awesome, 
